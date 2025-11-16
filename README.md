@@ -154,9 +154,9 @@ If you encounter any issues:
 
 ## 📜 License
 
-Copyright © 2025 Rudra Kumar. All rights reserved.
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
-This software is provided "as is" without warranty of any kind. Use at your own risk.
+Copyright © 2025 Rudra Kumar.
 
 ---
 
